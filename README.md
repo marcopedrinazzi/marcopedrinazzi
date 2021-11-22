@@ -1,4 +1,4 @@
-Hi, I’m @marcopedrinazzi. I'm studying Cybersecurity at University of Milan
+Hi, I’m Marco. I'm studying Cybersecurity at University of Milan
 
 
 <!---
