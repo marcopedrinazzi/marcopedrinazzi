@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @marcopedrinazzi
+- Hi, I’m @marcopedrinazzi
+- Studying Cybersecurity at University of Milan
 
 
 <!---
