@@ -5,3 +5,4 @@ Open source projects I have contributed to:
 - LOOBins (https://github.com/infosecB/LOOBins)
 - PlumHound (https://github.com/PlumHound/PlumHound) 
 - C2Tracker (https://github.com/montysecurity/C2-Tracker)
+- Pivot Atlas (https://github.com/korniko98/pivot-atlas)
